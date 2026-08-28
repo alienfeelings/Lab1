@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="quote">\"Of all things, I liked books best.\"</string>
+    <string name="nikola">Nikola Tesla</string>
+</resources>
